@@ -1,7 +1,8 @@
 🚀 Kedar Patil | Data Scientist & Product Designer
-👨‍💻 Aspiring Data Scientist | 🔍 Problem Solver | 🎯 Continuous Learner
 
-💡 Passionate about data-driven decision-making, machine learning, and innovation. Currently transitioning from Tire Design & Innovation to Data Science, applying analytical thinking to solve real-world challenges.
+👨‍💻 DATA ethusiast | 🔍 Problem Solver | 🎯 Continuous Learner
+
+💡 Passionate about data-driven decision-making, machine learning, and innovation.  applying analytical thinking to solve real-world challenges.
 
 ⚡ Technical Stack: Python, Machine Learning, Power BI, SQL, Scikit-Learn, Pandas, NumPy, Matplotlib
 
