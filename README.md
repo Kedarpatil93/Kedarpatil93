@@ -4,7 +4,7 @@
 
 💡 Passionate about data-driven decision-making, machine learning, and innovation.  applying analytical thinking to solve real-world challenges.
 
-⚡ Technical Stack: Python, Machine Learning, Power BI, SQL, Scikit-Learn, Pandas, NumPy, Matplotlib
+⚡ Technical Stack: Python, Machine Learning, Power BI, SQL, Scikit-Learn,Tensorflow,  Pandas, NumPy, Matplotlib, Streamlit
 
 📚 Interests: Badminton 🏸 | Hiking ⛰ | Books 📖 | Exploring Cuisines 🍜
 
