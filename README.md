@@ -1,4 +1,4 @@
-🚀 Kedar Patil | Data Scientist & Product Designer
+🚀 Kedar Patil | Data Enthusiast | Product Designer
 
 👨‍💻 DATA ethusiast | 🔍 Problem Solver | 🎯 Continuous Learner
 
